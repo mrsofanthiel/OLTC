@@ -1,6 +1,9 @@
-# VirtualXP
+# Shiver me timbers
 
-Virtual Machine running on a Web browser.
+Github CLI is hard (im weak)
+
+This is a fork of LRusso's Virtual Machine in a Web browser.
+All parts of the readme below are untouched.
 
 ![alt screenshot](https://raw.githubusercontent.com/lrusso/VirtualXP/master/VirtualXP.png)
 
